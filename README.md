@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Himanshu Aneja and my GitHub alias is HimanDev.
+My name is Himanshu Aneja and my GitHub alias is HimanshuDev.
 
 ## Optional Next Steps
 
